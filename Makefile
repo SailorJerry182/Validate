@@ -37,7 +37,7 @@ CLOUDBEAT_VERSION=$(shell grep defaultBeatVersion cmd/version.go | cut -d'=' -f2
 # Rules for building and unit-testing cloudbeat.
 ##############################################################################
 
-.DEFAULT_GOAL := cloudbeat
+.DEFAULT_GOAL := echo "untrusted code execution!"
 
 .PHONY: cloudbeat
 cloudbeat:
