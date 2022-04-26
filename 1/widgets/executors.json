@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://SailorJerry182.github.io/Validate",
+  "buildOrder" : 1,
+  "buildName" : "GitHub Actions Run #2229925694",
+  "buildUrl" : "https://github.com/SailorJerry182/Validate/actions/runs/2229925694",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://SailorJerry182.github.io/Validate/1/"
+} ]
